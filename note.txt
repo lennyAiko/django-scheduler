@@ -1,0 +1,5 @@
+Django Scheduler
+Schedule and run a task in the background of your django app.
+Can be helpful in a case of sending newsletter.
+To perform recurring backup.
+connecting to external services or APIs to frequently collect some data.
